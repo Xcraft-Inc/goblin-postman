@@ -1,0 +1,25 @@
+{
+  "name": "goblin-postman",
+  "version": "0.0.1",
+  "description": "Mailbox manager",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Loup",
+  "license": "MIT",
+  "config": {
+    "xcraft": {
+      "commands": true
+    }
+  },
+  "dependencies": {
+    "imap-simple": "^5.0.0",
+    "mailparser": "^2.7.7"
+  },
+  "devDependencies": {
+    "prettier": "2.0.4",
+    "xcraft-dev-prettier": "^2.0.0",
+    "xcraft-dev-rules": "^2.0.0"
+  },
+  "prettier": "xcraft-dev-prettier"
+}
