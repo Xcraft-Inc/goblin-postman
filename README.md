@@ -1,3 +1,3 @@
 # goblin-postman
 
-![Postman](./img/postman.jpg)
+![Postman](./img/postman.png)
